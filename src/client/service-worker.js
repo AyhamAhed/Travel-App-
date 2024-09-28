@@ -5,6 +5,7 @@ const urlsToCache = [
   '/styles/styles.css',
   '/js/app.js',
   '/js/index.js',
+  '/public/skyimg.jpg'
   // Add other assets like images, fonts, etc.
 ];
 
